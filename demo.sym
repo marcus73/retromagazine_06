@@ -1,0 +1,12 @@
+.label colora_barre=$2500 {
+  .label loop=$2506
+}
+.label play=$2600 {
+  .label no_spazio=$2616
+}
+.label int1=$1100 {
+}
+.label start=$28d0
+.label main=$1000 {
+}
+.label colors=$2800
